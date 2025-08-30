@@ -1,0 +1,32 @@
+Beginner (6 Questions)
+Write a function greet(name) that takes a person’s name as input and prints “Hello, [name]!”.
+
+Write a function add_numbers(a, b) that returns the sum of two numbers.
+
+Create a function is_even(number) that returns True if the number is even, otherwise False.
+
+Write a function find_max(a, b, c) that returns the largest of three numbers.
+
+Create a function calculate_square(number) that returns the square of a given number.
+
+Write a function reverse_string(text) that takes a string and returns it reversed.
+
+Intermediate (6 Questions)
+Write a function factorial(n) that returns the factorial of a number using recursion.
+
+Create a function is_palindrome(word) that returns True if the word is a palindrome, otherwise False.
+
+Write a function count_vowels(text) that counts and returns the number of vowels in a string.
+
+Create a function fibonacci(n) that prints the first n terms of the Fibonacci sequence.
+
+Write a function sum_of_list(numbers) that returns the sum of all numbers in a list.
+
+Create a function prime_numbers_in_range(start, end) that returns a list of all prime numbers between two numbers.
+
+Hard (3 Questions)
+Create a function matrix_multiplication(A, B) that takes two 2D lists (matrices) and returns their product (assume valid dimensions).
+
+Write a function word_frequency(text) that returns a dictionary showing the frequency of each word in a given text.
+
+Create a function nested_factorial_sum(n) that calculates the sum of factorials of numbers from 1 to n using recursion (e.g., for n=4, it should return 1! + 2! + 3! + 4!).

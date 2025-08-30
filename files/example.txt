@@ -1,0 +1,2 @@
+This is the example of file writing
+ This is an appended text
